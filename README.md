@@ -3,6 +3,35 @@
 ## 📁 Repository Structure
 
 ### 📋 Quick Start
+## 🖼️ Program Outputs (Snapshots)
+
+Below are snapshots of each program's output.  
+Save your screenshots in the `images/` folder with the given filenames for easy linking.
+
+---
+
+### 🔹 Task 6 – Welcome Message
+<img src="images/task6_output.png" alt="Task 6 Output" width="500">
+
+---
+
+### 🔹 Task 7 – Area and Perimeter of a Rectangle
+<img src="images/task7_output.png" alt="Task 7 Output" width="500">
+
+---
+
+### 🔹 Task 8 – Percentage Calculator
+<img src="images/task8_output.png" alt="Task 8 Output" width="500">
+
+---
+
+### 🔹 Task 9 – Percentage Calculator (Variation)
+<img src="images/task9_output.png" alt="Task 9 Output" width="500">
+
+---
+
+### 🔹 Task 10 – Swapping Variables
+<img src="images/task10_output.png" alt="Task 10 Output" width="500">
 
 ## 📂 File Navigation
 
