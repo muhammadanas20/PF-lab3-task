@@ -2,7 +2,6 @@
 
 ## 📁 Repository Structure
 
-### 📋 Quick Start
 ## 🖼️ Program Outputs (Snapshots)
 
 Below are snapshots of each program's output.  
