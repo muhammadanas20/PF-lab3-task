@@ -6,8 +6,6 @@
 ## 🖼️ Program Outputs (Snapshots)
 
 Below are snapshots of each program's output.  
-Save your screenshots in the `images/` folder with the given filenames for easy linking.
-
 ---
 
 ### 🔹 Task 6 – Welcome Message
