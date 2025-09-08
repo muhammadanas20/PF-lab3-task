@@ -1,26 +1,26 @@
 #include <stdio.h>
 //  swapping Variables
 int main(){
-    int numberOne,numberTwo;
+    int variableOne,variableTwo;
     printf("Enter first number: ");
-    scanf("%d",&numberOne);
+    scanf("%d",&variableOne);
     printf("Enter second number: ");
-    scanf("%d",&numberTwo);
+    scanf("%d",&variableTwo);
      // 1-Using Third variable method
     int temp;
-    temp=numberOne;
-    numberOne=numberTwo;
-    numberTwo=temp;
+    temp=variableOne;
+    variableOne=variableTwo;
+    variableTwo=temp;
     printf("After swapping: \n");
-    printf("First number: %d\n", numberOne);
-    printf("Second number: %d\n", numberTwo);
+    printf("First number: %d\n", variableOne);
+    printf("Second number: %d\n", variableTwo);
     // 2-Without using Third variable method
-    numberOne = numberOne + numberTwo;
-    numberTwo = numberOne - numberTwo;
-    numberOne = numberOne - numberTwo;
+    variableOne = variableOne + variableTwo;
+    variableTwo = variableOne - variableTwo;
+    variableOne = variableOne - variableTwo;
     printf("After swapping: \n");
-    printf("First number: %d\n", numberOne);
-    printf("Second number: %d\n", numberTwo);
+    printf("First number: %d\n", variableOne);
+    printf("Second number: %d\n", variableTwo);
     return 0;
 }
 
